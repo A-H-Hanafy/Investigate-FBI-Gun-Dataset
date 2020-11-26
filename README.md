@@ -17,9 +17,9 @@ This project contains two data files The first contains the sales of weapons and
 
 ## Required Packages
 
--numpy
--pandas
--matplotlib
--seaborn
--xlrd
--re
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- xlrd
+- re
