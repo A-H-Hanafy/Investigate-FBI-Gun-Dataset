@@ -21,5 +21,4 @@ This project contains two data files The first contains the sales of weapons and
 - pandas
 - matplotlib
 - seaborn
-- xlrd
 - re
